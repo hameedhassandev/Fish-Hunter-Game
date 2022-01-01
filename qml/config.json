@@ -1,0 +1,8 @@
+{
+    "title": "FishHunter",
+    "identifier": "com.yourcompany.wizardEVP.FishHunter",
+    "orientation": "landscape",
+    "versioncode": 1,
+    "versionname": "1.0.0",
+    "stage": "test"
+}
